@@ -1,2 +1,2 @@
-# test.pub.web
+# mbtest.github.io
 Testing publishing website via GitHub
